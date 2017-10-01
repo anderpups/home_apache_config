@@ -4,3 +4,4 @@ conf-available
 mods-available
 mods-enabled
 sites-available
+envvars
